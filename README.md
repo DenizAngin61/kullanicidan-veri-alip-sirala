@@ -1,0 +1,1 @@
+# kullanicidan-veri-alip-sirala
